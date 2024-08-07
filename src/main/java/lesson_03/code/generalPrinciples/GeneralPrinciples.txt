@@ -1,0 +1,15 @@
+DRY - don't repeat yourself! - не повторяйтесь
+
+SSOT - single source of truth - единый источник правды
+
+KISS -
+Keep it simple, stupid
+Keep it stupid simple
+
+
+SOLID -
+S - single responsibility principle - принцип единой ответственности
+O - open-close principle - принцип открытости/закрытости
+L - Liskov substitution principle - принцип подстановки Лисков
+I - interface segregation principle - принцип разделения интерфейсов
+D - dependency inversion principle - принцип инверсии зависимостей
