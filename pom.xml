@@ -11,6 +11,7 @@
     <groupId>org</groupId>
     <artifactId>cohort39e-FS</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>cohort39e-FS</name>
     <description>cohort39e-FS</description>
     <url/>
@@ -20,6 +21,9 @@
     <developers>
         <developer/>
     </developers>
+    <modules>
+        <module>src/main/java/lesson_04/code/firstSpringApp</module>
+    </modules>
     <scm>
         <connection/>
         <developerConnection/>
