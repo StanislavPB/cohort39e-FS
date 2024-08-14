@@ -33,7 +33,7 @@ mycorp.com - host
 POST - запрос
 
 POST /newclient HTTP/1.1
-Accept: application/json
+Accept: application/json (MIME-тип Multipurpose Internet Mail Extension)
 Content-Type: application/json
 Content-Length : 31
 Host: mycorp.com
