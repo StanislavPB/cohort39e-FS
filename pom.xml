@@ -23,6 +23,7 @@
     </developers>
     <modules>
         <module>src/main/java/lesson_04/code/firstSpringApp</module>
+        <module>jdbcExample</module>
     </modules>
     <scm>
         <connection/>
