@@ -1,0 +1,72 @@
+Работа с товарами:
+
+- передать все товары
+
+Request: -
+
+Response:
+[
+    {
+        "id": 1,
+        "name": "iPhone 15",
+        "description": "iPhone 15 .........",
+        "category": {
+                        "id": 1,
+                        "categoryName":"phones"
+                    },
+        "manufacturer": {
+                         "id": 1,
+                         "name":"Apple",
+                         "country":"China"
+                         },
+        "productPrice": 1500,
+        "productQuantity": 24
+    },
+    {}
+]
+
+
+- передать список категорий
+
+public LIst<CategoryDTO> allCategories()
+
+Request: -
+
+Response:
+[
+{
+"id": 1,
+"categoryName":"phones"
+},
+{}
+]
+
+
+- передать товары по категории и диапазон цен
+
+public List<ProductDTO> productByCategoryAndPrice(Integer categoryId, Double minPrice, Double maxPrice)
+
+Request: Integer categoryId, Double minPrice, Double maxPrice
+
+Response:
+
+[
+    {
+            "id": 1,
+            "name": "iPhone 15",
+            "description": "iPhone 15 .........",
+            "category": {
+                            "id": 1,
+                            "categoryName":"phones"
+                        },
+            "manufacturer": {
+                             "id": 1,
+                             "name":"Apple",
+                             "country":"China"
+                             },
+            "productPrice": 1500,
+            "productQuantity": 24
+        },
+        {}
+]
+
