@@ -15,15 +15,10 @@
     <name>cohort39e-FS</name>
     <description>cohort39e-FS</description>
     <url/>
-    <licenses>
-        <license/>
-    </licenses>
-    <developers>
-        <developer/>
-    </developers>
+
     <modules>
         <module>src/main/java/lesson_04/code/firstSpringApp</module>
-        <module>jdbcExample</module>
+        <module>src/main/java/lesson_08/code/jpaProject</module>
     </modules>
     <scm>
         <connection/>
