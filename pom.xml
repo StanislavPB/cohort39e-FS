@@ -19,6 +19,7 @@
     <modules>
         <module>src/main/java/lesson_04/code/firstSpringApp</module>
         <module>src/main/java/lesson_08/code/jpaProject</module>
+        <module>src/main/java/lesson_08/code/jpaSpringBootData</module>
     </modules>
     <scm>
         <connection/>
