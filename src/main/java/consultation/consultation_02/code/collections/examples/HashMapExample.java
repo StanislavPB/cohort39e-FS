@@ -1,4 +1,4 @@
-package consultation_02.code.collections.examples;
+package code.collections.examples;
 
 import java.util.Arrays;
 import java.util.HashMap;

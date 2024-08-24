@@ -1,4 +1,4 @@
-package consultation_02.code.collections.compareObjects.comparable;
+package code.collections.compareObjects.comparable;
 
 import java.util.Objects;
 

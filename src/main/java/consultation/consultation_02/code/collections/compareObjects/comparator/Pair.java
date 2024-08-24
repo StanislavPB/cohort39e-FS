@@ -1,4 +1,4 @@
-package consultation_02.code.collections.compareObjects.comparator;
+package code.collections.compareObjects.comparator;
 
 public class Pair {
 

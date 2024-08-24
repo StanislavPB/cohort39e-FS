@@ -1,4 +1,4 @@
-package consultation_02.code.collections.compareObjects.comparable;
+package code.collections.compareObjects.comparable;
 
 public class Book implements Comparable<Book>{
 

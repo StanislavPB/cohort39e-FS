@@ -1,4 +1,4 @@
-package consultation_02.code.collections.mapKeyCollision;
+package code.collections.mapKeyCollision;
 
 public class Cat {
 
